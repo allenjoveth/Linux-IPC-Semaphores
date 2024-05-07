@@ -1,3 +1,4 @@
+
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
@@ -165,6 +166,12 @@ $ ipcs
 
 
 ## RESULT:
+
+
+
+
+
+
 ```
 The program is executed successfully.
 ```
